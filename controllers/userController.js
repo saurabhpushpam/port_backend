@@ -1,4 +1,3 @@
-const userproduct = require("../models/productModel");
 const user = require("../models/userModel");
 const path = require("path");
 const fs = require("fs");
